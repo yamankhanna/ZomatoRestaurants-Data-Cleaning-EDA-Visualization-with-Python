@@ -10,4 +10,4 @@ This project includes Data Cleaning, Exploratory Data Analysis and Visualization
 - *Building a Dashboard* - using *PowerBI* to showcase the analysis.
 
 ## Dashboard
-![]
+![](Images/Zomato_Dashboard.PNG)
